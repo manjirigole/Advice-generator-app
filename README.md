@@ -21,14 +21,13 @@ Users should be able to:
 - Generate a new piece of advice by clicking the dice icon
 
 ### Screenshot
-
-![](./screenshot.jpg)
+<img width="1835" height="902" alt="image" src="https://github.com/user-attachments/assets/e11dfa11-71d6-48f3-bc58-50fe791b6f26" />
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/advice-generator-app-5E1QJRDE9N
+- Live Site URL: https://manjirigole.github.io/Advice-generator-app/
 
 
 ## Author
