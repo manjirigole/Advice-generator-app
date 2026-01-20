@@ -1,0 +1,77 @@
+body {
+  background-color: hsl(218, 23%, 16%);
+  font-family: "Manrope", sans-serif;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  flex-direction: column;
+}
+.card-header {
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+  align-items: center;
+}
+.card {
+  background-color: hsl(217, 19%, 24%);
+  border-radius: 1rem;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+  position: relative;
+  max-width: 500px;
+  width: "100%";
+}
+.advice-heading {
+  color: hsl(150, 100%, 66%);
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.2rem;
+}
+.advice-count {
+  color: hsl(150, 100%, 66%);
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.2rem;
+}
+.advice-div {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.advice {
+  color: hsl(193, 38%, 86%);
+  font-size: 28px;
+  text-align: "center";
+  font-weight: 600;
+}
+.border-div {
+  margin-bottom: 20px;
+}
+.dice-btn {
+  position: absolute;
+  left: 50%;
+  bottom: -8%;
+  transform: translate(-50%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: hsl(150, 100%, 66%);
+  border: none;
+  padding: 0.7rem;
+  border-radius: 50%;
+}
+.icon-dice {
+  width: 15px;
+}
+
+.dice-btn:hover {
+  cursor: pointer;
+  box-shadow: 0 0 20px hsl(150, 100%, 66%);
+}
